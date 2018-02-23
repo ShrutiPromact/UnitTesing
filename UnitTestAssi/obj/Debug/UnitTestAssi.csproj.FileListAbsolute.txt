@@ -1,0 +1,7 @@
+C:\Users\Shruti\source\repos\UnitTestAssi\UnitTestAssi\bin\Debug\UnitTestAssi.exe.config
+C:\Users\Shruti\source\repos\UnitTestAssi\UnitTestAssi\bin\Debug\UnitTestAssi.exe
+C:\Users\Shruti\source\repos\UnitTestAssi\UnitTestAssi\bin\Debug\UnitTestAssi.pdb
+C:\Users\Shruti\source\repos\UnitTestAssi\UnitTestAssi\obj\Debug\UnitTestAssi.csprojResolveAssemblyReference.cache
+C:\Users\Shruti\source\repos\UnitTestAssi\UnitTestAssi\obj\Debug\UnitTestAssi.csproj.CoreCompileInputs.cache
+C:\Users\Shruti\source\repos\UnitTestAssi\UnitTestAssi\obj\Debug\UnitTestAssi.exe
+C:\Users\Shruti\source\repos\UnitTestAssi\UnitTestAssi\obj\Debug\UnitTestAssi.pdb

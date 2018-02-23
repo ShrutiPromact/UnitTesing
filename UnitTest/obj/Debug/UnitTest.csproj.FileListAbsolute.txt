@@ -1,0 +1,16 @@
+C:\Users\Shruti\source\repos\UnitTestAssi\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Shruti\source\repos\UnitTestAssi\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Shruti\source\repos\UnitTestAssi\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Shruti\source\repos\UnitTestAssi\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\Shruti\source\repos\UnitTestAssi\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\Shruti\source\repos\UnitTestAssi\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Shruti\source\repos\UnitTestAssi\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Shruti\source\repos\UnitTestAssi\UnitTest\bin\Debug\UnitTestAssi.exe
+C:\Users\Shruti\source\repos\UnitTestAssi\UnitTest\bin\Debug\UnitTestAssi.pdb
+C:\Users\Shruti\source\repos\UnitTestAssi\UnitTest\bin\Debug\UnitTestAssi.exe.config
+C:\Users\Shruti\source\repos\UnitTestAssi\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Shruti\source\repos\UnitTestAssi\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Shruti\source\repos\UnitTestAssi\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Shruti\source\repos\UnitTestAssi\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Shruti\source\repos\UnitTestAssi\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\Shruti\source\repos\UnitTestAssi\UnitTest\obj\Debug\UnitTest.pdb
